@@ -1,0 +1,262 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Editor should match snapshot 1`] = `
+<div>
+  <div
+    id="wrappertest-checklist-uid"
+  >
+    <div
+      id="editor"
+    >
+      <div
+        class="ProseMirror-menubar-wrapper"
+      >
+        <div
+          class="ProseMirror-menubar"
+        >
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon"
+              title="Toggle strong style"
+            >
+              <svg
+                style="width: 0.7861328125em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon-4eb53ba9"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon"
+              title="Toggle emphasis"
+            >
+              <svg
+                style="width: 0.5712890625em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon-25612f7a"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon"
+              title="Toggle code font"
+            >
+              <svg
+                style="width: 0.875em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon--1d0983fe"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon ProseMirror-menu-disabled"
+              title="Add or remove link"
+            >
+              <svg
+                style="width: 0.9287109375em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon--78ecc05e"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuseparator"
+          />
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-menu-dropdown-wrap"
+            >
+              <div
+                class="ProseMirror-menu-dropdown "
+              >
+                Insert
+              </div>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-menu-dropdown-wrap"
+            >
+              <div
+                class="ProseMirror-menu-dropdown "
+              >
+                Type...
+              </div>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuseparator"
+          />
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon ProseMirror-menu-disabled"
+              title="Undo last change"
+            >
+              <svg
+                style="width: 1em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon-5a60796"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon ProseMirror-menu-disabled"
+              title="Redo last undone change"
+            >
+              <svg
+                style="width: 1em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon--6ff882d4"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuseparator"
+          />
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon"
+              title="Wrap in bullet list"
+            >
+              <svg
+                style="width: 0.8571428571428571em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon--6141f81"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon"
+              title="Wrap in ordered list"
+            >
+              <svg
+                style="width: 0.8571428571428571em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon-28a6efee"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon"
+              title="Wrap in block quote"
+            >
+              <svg
+                style="width: 0.7142857142857143em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon--2d1566b3"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+            style="display: none;"
+          >
+            <div
+              class="ProseMirror-icon"
+              style="display: none;"
+              title="Join with above block"
+            >
+              <svg
+                style="width: 0.8888888888888888em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon--3cb9c8"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+            style="display: none;"
+          >
+            <div
+              class="ProseMirror-icon"
+              style="display: none;"
+              title="Lift out of enclosing block"
+            >
+              <svg
+                style="width: 1em;"
+              >
+                <use
+                  href="http://localhost/#pm-icon--2eec1b76"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="ProseMirror-menuitem"
+          >
+            <div
+              class="ProseMirror-icon"
+              title="Select parent node"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                ⬚
+              </span>
+            </div>
+          </span>
+        </div>
+        <div
+          class="ProseMirror ProseMirror-example-setup-style"
+          contenteditable="true"
+          translate="no"
+        >
+          <p>
+            <br
+              class="ProseMirror-trailingBreak"
+            />
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
