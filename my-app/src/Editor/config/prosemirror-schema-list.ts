@@ -60,7 +60,7 @@ export function addListNodes(
   });
 }
 
-export function wrapInList(listType: any, attrs: any) {
+export function wrapInList(listType: any, attrs?: any) {
   return function (state: any, dispatch: any) {
     let { $from, $to } = state.selection;
     let range = $from.blockRange($to),
