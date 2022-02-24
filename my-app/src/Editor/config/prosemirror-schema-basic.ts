@@ -1,8 +1,6 @@
 import { Schema } from "prosemirror-model";
 import { orderedList, listItem } from "./prosemirror-schema-list";
 
-const pDOM = ["p", 0],
-  brDOM = ["br"];
 export const nodes: any = {
   doc: {
     content: "ordered_list+",
